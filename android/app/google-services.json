@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053413114828",
+    "project_id": "haji-baba",
+    "storage_bucket": "haji-baba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053413114828:android:bcef12b868c7ab8d6b5369",
+        "android_client_info": {
+          "package_name": "owasoft.haji.baba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053413114828-mc5lsjrcrcfkb2f4tb7tu7fpvmpkqtbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "owasoft.haji.baba",
+            "certificate_hash": "df634548e7a9bf64f8ad72485090561ec8041706"
+          }
+        },
+        {
+          "client_id": "1053413114828-0294ugqr8s8oe2u21mo0365mtmnamhhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw6xiIgXQNwMs6PeYh8n-jQB7eKX6axkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053413114828-0294ugqr8s8oe2u21mo0365mtmnamhhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
